@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Plugin | trade-sniping + take-profit-orders offers the most advanced Polymarket plugin, with trade-sniping and take-profit-orders. Ideal for professional traders
 
 
 
